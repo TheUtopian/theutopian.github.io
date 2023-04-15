@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="64"
+   height="64"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+	<style>
+		path {
+			opacity: 1;
+			vector-effect: none;
+			fill: #191C20;
+			fill-opacity: 1;
+			fill-rule: evenodd;
+			stroke: none;
+			stroke-width: 0;
+			stroke-linecap: butt;
+			stroke-linejoin: miter;
+			stroke-miterlimit: 4;
+			stroke-dasharray: none;
+			stroke-dashoffset: 0;
+			stroke-opacity: 0;
+			paint-order: normal
+		}
+
+		@media (prefers-color-scheme: dark) {
+			path {
+				fill: #ffffff;
+			}
+		}
+	</style>
+  <path
+     d="M 1.1520386,-15.28113 -7.4149708,5.4014603 -28.097561,13.96847 -48.780151,5.4014603 -57.34716,-15.28113 l 8.567009,-20.68259 20.68259,-8.567009 20.6825902,8.567009 z"
+     transform="matrix(1.0940321,0.45316292,-0.45316292,1.0940321,55.814793,61.45082)" />
+</svg>
